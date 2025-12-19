@@ -34,7 +34,7 @@ The protocol implements a logic gate: If a **Meta-Pareto KQ** (Critical Key Ques
 ## 📂 Open Core Modules
 We are currently releasing specific modules for **Peer Review**.
 
-* [Module 03: Finance - Cash & Runway Logic](docs/FINANCE_CORE.md) *(Proof of Concept)*
+* [Module 03: Finance - Cash & Runway Logic](FINANCE_CORE.md) *(Proof of Concept)*
 
 ---
 ## 📜 Authorship & License

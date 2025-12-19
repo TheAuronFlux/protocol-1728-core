@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this protocol methodology, please cite it as below."
+authors:
+  - family-names: "Flux"
+    given-names: "Auron"
+    alias: "TheAuronFlux"
+title: "Protocol 1728: The Human Development Taxonomy"
+version: 0.1.0-alpha
+date-released: 2025-12-19
+url: "https://github.com/TheAuronFlux/protocol-1728-core"
+abstract: "A fractal taxonomy (12^3) for quantifying human development using objective metrics and lexicographical prioritization."
+keywords:
+  - "human-optimization"
+  - "quantified-self"
+  - "bio-performance"
+  - "taxonomy"
+license: CC-BY-NC-SA-4.0
